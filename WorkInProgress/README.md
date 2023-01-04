@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Exportação do Billing](https://web.dio.me/lab/exportacao-do-billing/learning/55b9c90a-3c3f-4c6a-99d8-760705fbba0e)[Entendendo o desafio](https://web.dio.me/lab/exportacao-do-billing/learning/4f9e03e4-459c-4da9-9063-e7d9c59a6853)
+- [Exportação do Billing](https://web.dio.me/lab/exportacao-do-billing/learning/55b9c90a-3c3f-4c6a-99d8-760705fbba0e)
+- [Entendendo o desafio](https://web.dio.me/lab/exportacao-do-billing/learning/4f9e03e4-459c-4da9-9063-e7d9c59a6853)
 
 
 
